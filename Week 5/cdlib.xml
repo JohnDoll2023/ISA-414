@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cdlibrary>
+	<cd>
+		<cdid>A2 1325</cdid>
+		<cdlabel>Atlantic</cdlabel>
+		<cdtitle>Pyramid</cdtitle>
+		<cdyear>1960</cdyear>
+		<track>
+			<trknum>1</trknum>
+			<trktitle>Vendome</trktitle>
+			<trklen>01:02:30</trklen>
+		</track>
+		<track>
+			<trknum>2</trknum>
+			<trktitle>Pyramid</trktitle>
+			<trklen>00:10:46</trklen>
+		</track>
+	</cd>
+	<cd>
+		<cdid>D136705</cdid>
+		<cdlabel>Verve</cdlabel>
+		<cdtitle>Ella Fitzgerald</cdtitle>
+		<cdyear>2000</cdyear>
+		<track>
+			<trknum>1</trknum>
+			<trktitle>A tisket, a tasket</trktitle>
+			<trklen>00:02:37</trklen>
+		</track>
+		<track>
+			<trknum>2</trknum>
+			<trktitle>Vote for Mr. Rhythm</trktitle>
+			<trklen>00:02:25</trklen>
+		</track>
+		<track>
+			<trknum>3</trknum>
+			<trktitle>Betcha nickel</trktitle>
+			<trklen>00:02:52</trklen>
+		</track>
+	</cd>
+</cdlibrary>

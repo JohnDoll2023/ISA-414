@@ -1,0 +1,592 @@
+{
+  "response": {
+    "meta": {
+      "hits": [29997],
+      "time": [9],
+      "offset": [0]
+    },
+    "docs": [
+      {
+        "web_url": "http://www.nytimes.com/2017/01/12/technology/personaltech/a-new-destination-for-files-downloaded-from-microsoft-edge.html",
+        "snippet": "Microsoft’s Windows 10 browser puts files in the Downloads folder by default, but you can pick a new place to store those fresh-off-the-web items....",
+        "lead_paragraph": "Microsoft’s Windows 10 browser puts files in the Downloads folder by default, but you can pick a new place to store those fresh-off-the-web items.",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2017/01/13/technology/personaltech/13techtipwebART/13techtipwebART-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2017/01/13/technology/personaltech/13techtipwebART/13techtipwebART-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2017/01/13/technology/personaltech/13techtipwebART/13techtipwebART-articleLarge.jpg",
+            "height": 367,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2017/01/13/technology/personaltech/13techtipwebART/13techtipwebART-articleLarge.jpg",
+              "xlargeheight": "367"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2017/01/13/technology/personaltech/13techtipwebART/13techtipwebART-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2017/01/13/technology/personaltech/13techtipwebART/13techtipwebART-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "A New Destination for Files Downloaded From Microsoft Edge",
+          "content_kicker": "Tech Tip",
+          "kicker": "Tech Tip"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Web Browsers"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Microsoft Corp"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Computers and the Internet"
+          }
+        ],
+        "pub_date": "2017-01-12T17:16:08+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Technology",
+        "subsection_name": "Personal Tech",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "J.",
+              "rank": 1
+            }
+          ],
+          "original": ["By J. D. BIERSDORFER"]
+        },
+        "type_of_material": "Question",
+        "_id": "5877b9e17c459f2525d16386",
+        "word_count": "226"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2017/01/26/business/microsoft-q4-earnings.html",
+        "snippet": "Microsoft reported a quarterly profit of $5.2 billion, or 66 cents a share, compared with $5.02 billion, or 62 cents a share, a year earlier....",
+        "lead_paragraph": "Microsoft reported a quarterly profit of $5.2 billion, or 66 cents a share, compared with $5.02 billion, or 62 cents a share, a year earlier.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2017/01/27/business/27Microsoft/27Microsoft-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2017/01/27/business/27Microsoft/27Microsoft-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2017/01/27/business/27Microsoft/27Microsoft-articleLarge.jpg",
+            "height": 446,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2017/01/27/business/27Microsoft/27Microsoft-articleLarge.jpg",
+              "xlargeheight": "446"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2017/01/27/business/27Microsoft/27Microsoft-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2017/01/27/business/27Microsoft/27Microsoft-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Microsoft’s Profit Rises 4 Percent, as Cloud Business Booms",
+          "print_headline": "Microsoft Reports 4 Percent Increase in Profit, as Cloud Business Booms"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Microsoft Corp"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Cloud Computing"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Company Reports"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Software"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Computers and the Internet"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Nadella, Satya"
+          }
+        ],
+        "pub_date": "2017-01-27T00:47:00+0000",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Nick",
+              "rank": 1,
+              "lastname": "WINGFIELD"
+            }
+          ],
+          "original": ["By NICK WINGFIELD"]
+        },
+        "type_of_material": "News",
+        "_id": "588a988c7c459f2525d18e73",
+        "word_count": "669"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2007/09/21/opinion/21fri4.html",
+        "snippet": "American regulators should embrace Microsoft’s defeat in a European antitrust case as a healthy step in the growth of the information economy....",
+        "lead_paragraph": "American regulators should embrace Microsoft’s defeat in a European antitrust case as a healthy step in the growth of the information economy.",
+        "print_page": "18",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Regulating Microsoft",
+          "content_kicker": "Editorial",
+          "print_headline": "Regulating Microsoft"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Europe"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Microsoft Corp"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Decisions and Verdicts"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Computers and the Internet"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Editorials"
+          }
+        ],
+        "pub_date": "2007-09-21T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Editorial",
+        "section_name": "Opinion",
+        "byline": {},
+        "type_of_material": "Editorial",
+        "_id": "5485671938f0d84e18de0757",
+        "word_count": "420"
+      },
+      {
+        "web_url": "http://topics.nytimes.com/top/news/business/companies/microsoft_corporation/index.html",
+        "snippet": "News about Microsoft Corporation, including commentary and archival articles published in The New York Times....",
+        "lead_paragraph": "News about Microsoft Corporation, including commentary and archival articles published in The New York Times.",
+        "blog": [],
+        "multimedia": [],
+        "headline": {
+          "main": "Microsoft Corporation"
+        },
+        "keywords": [],
+        "document_type": "topic",
+        "section_name": "Business Day",
+        "byline": {},
+        "type_of_material": "timestopic",
+        "_id": "527ab68138f0d86606631f57",
+        "word_count": "15"
+      },
+      {
+        "web_url": "http://topics.nytimes.com/topic/company/microsoft-corporation",
+        "snippet": "News about Microsoft Corporation, including commentary and archival articles published in The New York Times....",
+        "lead_paragraph": "News about Microsoft Corporation, including commentary and archival articles published in The New York Times.",
+        "blog": [],
+        "multimedia": [],
+        "headline": {
+          "main": "Microsoft Corporation"
+        },
+        "keywords": [],
+        "document_type": "topic",
+        "section_name": "Business Day",
+        "byline": {},
+        "type_of_material": "timestopic",
+        "_id": "56e0233c38f0d836dc036a59",
+        "word_count": "15"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2010/09/15/opinion/15wed2.html",
+        "snippet": "Microsoft made the right decision to stop helping Russian authorities use claims of software piracy to harass dissenters....",
+        "lead_paragraph": "Microsoft made the right decision to stop helping Russian authorities use claims of software piracy to harass dissenters.",
+        "print_page": "34",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Microsoft and Russia",
+          "content_kicker": "Editorial",
+          "print_headline": "Microsoft and Russia",
+          "seo": "Microsoft and Russia"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "value": "Microsoft Corp",
+            "name": "organizations"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "value": "Russia",
+            "name": "glocations"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "value": "Software",
+            "name": "subject"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "value": "Copyrights and Copyright Violations",
+            "name": "subject"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "value": "Computers and the Internet",
+            "name": "subject"
+          },
+          {
+            "rank": "6",
+            "is_major": "N",
+            "value": "Gates, Bill",
+            "name": "persons"
+          },
+          {
+            "rank": "7",
+            "is_major": "N",
+            "value": "China",
+            "name": "glocations"
+          },
+          {
+            "rank": "8",
+            "is_major": "N",
+            "value": "Google Inc",
+            "name": "organizations"
+          },
+          {
+            "rank": "9",
+            "is_major": "N",
+            "value": "Yahoo Inc",
+            "name": "organizations"
+          }
+        ],
+        "pub_date": "2010-09-15T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Editorial",
+        "section_name": "Opinion",
+        "byline": [],
+        "type_of_material": "Editorial",
+        "_id": "541a9dc738f0d80959e6ce31",
+        "word_count": "442"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2008/07/02/technology/02soft.html",
+        "snippet": "Microsoft said on Tuesday that it would buy Powerset Inc., an Internet search company, the latest in a string of acquisitions aimed at bolstering its position online....",
+        "lead_paragraph": "Microsoft said on Tuesday that it would buy Powerset Inc., an Internet search company, the latest in a string of acquisitions aimed at bolstering its position online.",
+        "print_page": "10",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Microsoft Buys Online Concern",
+          "print_headline": "Microsoft Buys Online Concern"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Microsoft Corp"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Mergers, Acquisitions and Divestitures"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Computers and the Internet"
+          }
+        ],
+        "pub_date": "2008-07-02T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Technology",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Dow",
+              "rank": 1,
+              "lastname": "JONES"
+            }
+          ],
+          "original": ["By DOW JONES"]
+        },
+        "type_of_material": "News",
+        "_id": "5482b7a838f0d8403d9ccc70",
+        "word_count": "164"
+      },
+      {
+        "web_url": "http://www.nytimes.com/2006/09/13/technology/13unit.html",
+        "snippet": "The head of Microsoft’s division that makes specialized software for small and midsize businesses is stepping down....",
+        "lead_paragraph": "The head of Microsoft’s division that makes specialized software for small and midsize businesses is stepping down.",
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Executive Quits Microsoft",
+          "print_headline": "Executive Quits Microsoft"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Microsoft Corp"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Appointments and Executive Changes"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Computers and the Internet"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Small Business"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Computer Software"
+          }
+        ],
+        "pub_date": "2006-09-13T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Technology",
+        "byline": {
+          "person": [],
+          "original": ["By THE ASSOCIATED PRESS"],
+          "organization": ["THE ASSOCIATED PRESS"]
+        },
+        "type_of_material": "News",
+        "_id": "54b19e9938f0d87f81146eb4",
+        "word_count": "117"
+      },
+      {
+        "web_url": "http://www.nytimes.com/interactive/2009/07/29/technology/companies/yahoo-timeline.html",
+        "snippet": "A look at the long road to a partnership between two technology behemoths....",
+        "lead_paragraph": "A look at the long road to a partnership between two technology behemoths.",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "A Microsoft-Yahoo Deal"
+        },
+        "keywords": [
+          {
+            "value": "Yahoo Inc",
+            "is_major": "N",
+            "rank": "1",
+            "name": "organizations"
+          },
+          {
+            "value": "Microsoft Corp",
+            "is_major": "N",
+            "rank": "2",
+            "name": "organizations"
+          },
+          {
+            "value": "Computers and the Internet",
+            "is_major": "N",
+            "rank": "3",
+            "name": "subject"
+          },
+          {
+            "value": "Search Engines",
+            "is_major": "N",
+            "rank": "4",
+            "name": "subject"
+          }
+        ],
+        "pub_date": "2009-07-29T09:19:00Z",
+        "document_type": "multimedia",
+        "news_desk": "Technology / Companies",
+        "section_name": "Technology",
+        "subsection_name": "Companies",
+        "byline": {},
+        "type_of_material": "Interactive Feature",
+        "_id": "54547d6c38f0d839202ea262",
+        "word_count": "16"
+      },
+      {
+        "web_url": "http://gadgetwise.blogs.nytimes.com/2010/11/22/google-docs-and-microsoft-word/",
+        "snippet": "Users of Microsoft Office will soon be able to share and sync their work via Google Docs, thanks to a new plug-in....",
+        "lead_paragraph": "On TechCrunch today, Jason Kincaid reveals a new plug-in for Microsoft Office that allows users to sync up their work in the popular productivity suite with Google's cloud-based word processor and spreadsheet. Right now, the plug-in is only for corporate users of Google Docs, but expect a consumer version soon.",
+        "abstract": "Users of Microsoft Office will soon be able to share and sync their work via Google Docs, thanks to a new plug-in.",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Google Docs and Microsoft? Word.",
+          "kicker": "Gadgetwise"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "organizations",
+            "value": "Google Inc"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "Word Processing"
+          },
+          {
+            "rank": "2",
+            "name": "subject",
+            "value": "Computers and the Internet"
+          },
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "Microsoft Corp"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "unknown",
+            "value": "Google Inc|GOOG|NASDAQ"
+          },
+          {
+            "rank": "7",
+            "name": "unknown",
+            "value": "Microsoft Corp|MSFT|NASDAQ"
+          }
+        ],
+        "pub_date": "2010-11-22T18:26:24Z",
+        "document_type": "blogpost",
+        "section_name": "Technology",
+        "byline": {
+          "organization": ["THE NEW YORK TIMES"],
+          "original": ["By THE NEW YORK TIMES"],
+          "person": []
+        },
+        "type_of_material": "Blog",
+        "_id": "4fd39d128eb7c8105d8dde75",
+        "word_count": "50"
+      }
+    ]
+  },
+  "status": ["OK"],
+  "copyright": ["Copyright (c) 2013 The New York Times Company.  All Rights Reserved."]
+}
